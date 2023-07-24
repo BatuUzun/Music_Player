@@ -18,8 +18,8 @@ import UserClasses.User;
 
 
 public class Database {
-	private static final String username = "root";
-	private static final String password = "Ayhan1989";
+	private static final String username = "username";
+	private static final String password = "password";
 	private static final String url = "jdbc:mysql://localhost:3306/music_player";
 	private static final int songPerPage = 4;
 	
