@@ -8,3 +8,4 @@ Password is encrypted.
 User is able to change volume of the song and current duration of it.
 When a song is played, it automatically plays next song. 
 JFrame is used in this project.
+![image](https://github.com/BatuUzun/music_player/assets/103521291/790fa776-512d-4f8b-9037-c8f816e162e6)
