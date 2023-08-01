@@ -1,4 +1,4 @@
-# music_player
+# Music_Player
 This is my Music Player project. 
 You can create an account. 
 There are 2 account types(Singer and Listener). 
