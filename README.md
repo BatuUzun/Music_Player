@@ -20,7 +20,9 @@
 
 * In order to see whole project running, you can check my Google Drive.
 
-* My Google Drive: https://drive.google.com/drive/folders/1XJ52Ut-X_6YbcjVSHRzta2qxugMqxOfo?usp=sharing
+* My Google Drive: https://drive.google.com/file/d/1YvGXTwJBVREx2eM2tEQyoSEBdHiLyK8u/view?usp=drive_link
+
+* For further information about me: https://www.batuuzun.com/
 
 ![image](https://github.com/BatuUzun/music_player/assets/103521291/790fa776-512d-4f8b-9037-c8f816e162e6)
 ![image](https://github.com/BatuUzun/music_player/assets/103521291/b276571f-5f51-4809-a569-f33eac32b159)
