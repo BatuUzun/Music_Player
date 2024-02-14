@@ -1,15 +1,26 @@
 # Music_Player
-This is my Music Player project. 
-You can create an account. 
-There are 2 account types(Singer and Listener). 
-In order to be able to publish a music, you must create a Singer account.
-MySQL is used in this project. 
-Password is encrypted. 
-User is able to change volume of the song and current duration of it.
-When a song is played, it automatically plays next song. 
-JFrame is used in this project.
-In order to see whole project running, you can check my Google Drive.
-My Google Drive: https://drive.google.com/drive/folders/1XJ52Ut-X_6YbcjVSHRzta2qxugMqxOfo?usp=sharing
+
+* This is my Music Player project. 
+
+* You can create an account. 
+
+* There are 2 account types(Singer and Listener). 
+
+* In order to be able to publish a music, you must create a Singer account.
+
+* MySQL is used in this project. 
+
+* Password is encrypted. 
+
+* User is able to change volume of the song and current duration of it.
+
+* When a song is played, it automatically plays next song. 
+
+* JFrame is used in this project.
+
+* In order to see whole project running, you can check my Google Drive.
+
+* My Google Drive: https://drive.google.com/drive/folders/1XJ52Ut-X_6YbcjVSHRzta2qxugMqxOfo?usp=sharing
 
 ![image](https://github.com/BatuUzun/music_player/assets/103521291/790fa776-512d-4f8b-9037-c8f816e162e6)
 ![image](https://github.com/BatuUzun/music_player/assets/103521291/b276571f-5f51-4809-a569-f33eac32b159)
